@@ -1,4 +1,4 @@
-## 2.0 BOOTSTRAP JS PHILOSOPHY
+COMPANY:CODETECH IT SOLUTIONS NAME:ADITI KODANDE INTERN ID:::CT08OGN DOMAIN: Software Development BATCH DURATION:m January 20th, 2025 to February 20th, 2022 MENTOR NAME:NEELA SANTOSH## 2.0 BOOTSTRAP JS PHILOSOPHY
 These are the high-level design rules which guide the development of Bootstrap's plugin apis.
 
 ---
